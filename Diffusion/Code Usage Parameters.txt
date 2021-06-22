@@ -1,2 +1,0 @@
-The scripts "Diffusion_Quantification_Circles.ijm" and "Diffusion_Quantification_GRadient.ijm" were used to extract diffusion data from a 24 hour diffusion time lapse sampled at 30 minute intervals.
-
