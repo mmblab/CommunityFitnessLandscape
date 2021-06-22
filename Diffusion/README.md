@@ -12,4 +12,5 @@ The file "GradientDiffusionData.txt" contains the measured raw data of the gradi
  - There are 25 time points, from t = 0 hours to t = 12 hours at 0.5 hour intervals
 
 ## Circle Diffusion
-
+The file "Circle_diffusion.csv" contains the raw data for measuring the depleation of flourescent molecules from the variable wells of the device.
+The indices of the variable wells are indicated in the image "Circle_ROI.jpg"
