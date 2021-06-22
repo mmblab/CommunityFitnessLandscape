@@ -1,0 +1,9 @@
+2X objective
+
+560 nm: 400 ms, no binning
+
+14 x 4 large image, 20% overlap
+
+1 large image
+
+12 h time lapse, 30 min interval
