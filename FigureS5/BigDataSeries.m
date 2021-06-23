@@ -1,9 +1,10 @@
 %% This script aggrigates the data from large data dseries into an easily usable matrix
 %   Only contains 
 
-filepath = 'G:\My Drive\Beebe Lab\Triculture\Data\BC_TimeLapse\CSV\';
-layout1 = load('G:\My Drive\Beebe Lab\Triculture\Data\BC_TimeLapse\layout1of2_10SpecsA.txt');
-layout2 = load('G:\My Drive\Beebe Lab\Triculture\Data\BC_TimeLapse\layout2of2_10SpecsA.txt');
+pathS5 = '*Insert path to the FigureS5 folder*'
+filepath = strcat(pathS5, 'CSV\');
+layout1 = load(strcat(pathS5, 'layout1of2_10SpecsA.txt'));
+layout2 = load(strcat(pathS5, 'layout2of2_10SpecsA.txt'));
 means = zeros(176, 26);
 
 % Iterates through each time point's data
