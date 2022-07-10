@@ -50,4 +50,4 @@ Fiji (ImageJ) - 2.0.0-rc-69/1.52p; Java 1.8.0_172 [64-bit]
 
 
 ## Repository Contributors
-@WEWightman
+@wewightman
